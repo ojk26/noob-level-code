@@ -1,0 +1,21 @@
+.capitals{
+	background-color: black;
+	font-size: 150%;
+	color: yellow;
+	text-align: center;
+	margin-top: 10px;
+	width: 400px;
+	height: 100px;
+	border: 25px solid green;
+	padding: 25px;
+	margin: 25px auto;
+}
+p {
+	font-size: 66%;
+}
+
+#special{
+	background-color: blue;
+	font-family: courier;
+	text-align: center;
+}

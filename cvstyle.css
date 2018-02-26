@@ -1,0 +1,24 @@
+body {
+	background-color: linen;
+	}
+header {
+	text-align: center; 
+	font-family: courier header; 
+	font-size: 300%;
+	}
+h2 {
+	text-align: center;
+	font-family: courier;
+	font-size: 200%;
+}
+h3 {
+	text-align: center;
+	font-size: 150%;
+}
+table{
+	margin-left: auto;
+	margin-right: auto;
+}
+th{
+	width: 80px;
+}
