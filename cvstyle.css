@@ -6,20 +6,26 @@ header {
 	font-family: courier header; 
 	font-size: 300%;
 	}
-h2 {
+h1{
 	text-align: center;
 	font-family: courier;
 	font-size: 200%;
 }
-th {
+h2 {
+	text-align: center;
+	font-family: courier;
+	font-size: 150%;
+}
+table {
+	margin-right: auto;
+	margin-left: auto;
+	width: 400px;
 	text-align: center;
 	font-size: 120%;
 }
-table{
-	margin-left: auto;
-	margin-right: auto;
-	width: 400px;
+h3 {
+	margin-left: 5%;
 }
-th{
-	width: 80px;
+ul {
+	margin-left: 6%;
 }
